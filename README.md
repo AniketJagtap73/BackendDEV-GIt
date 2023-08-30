@@ -1,2 +1,2 @@
-# BackendDEV-GIt
-Java Backend Development
+# JDBC-GIt
+JDBC CRUD Application
